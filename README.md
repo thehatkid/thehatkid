@@ -1,5 +1,1 @@
-# Hewwo everyone!
-
-...for what is README.md?...
-
-[![:hueh:](https://i.imgur.com/3Oxh1BE.png)](https://i.imgur.com/3Oxh1BE.png)
+[![TheHatKid (aka. hat_kid)](https://raw.githubusercontent.com/thehatkid/thehatkid/master/banner.png)](https://github.com/thehatkid)
