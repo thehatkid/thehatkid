@@ -16,6 +16,7 @@ Also My name is `hat_kid`!
 <img width="240px" alt="Why." src="./why.gif">
 
 <img width="240px" alt="Merge Cat" src="https://raw.githubusercontent.com/FMS-Cat/FMS-Cat/master/images/merge_cat.png">
+
 ## Stats
 ![Profile stats](https://github-readme-stats.vercel.app/api?username=thehatkid&show_icons=true&theme=tokyonight&count_private=true)
 
