@@ -20,4 +20,6 @@ Also My name is `hat_kid`!
 ## Stats
 ![Profile stats](https://github-readme-stats.vercel.app/api?username=thehatkid&show_icons=true&theme=tokyonight&count_private=true)
 
+![Top PLs](https://github-readme-stats.vercel.app/api/top-langs/?username=thehatkid&theme=tokyonight&layout=compact)
+
 ![Profile views](https://gpvc.arturio.dev/thehatkid)
