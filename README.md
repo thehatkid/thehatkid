@@ -1,10 +1,11 @@
-# Hewwo, %username%
+# Hewwo, {username}!
 
-Also My name is `hat_kid`!
+My nickname or just name is `hat_kid` and I can mod OneShot or just do something...
 
 ## I'm Coding on...
 ![Python](https://img.shields.io/badge/-Python-4584b6?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-8892be?style=flat-square&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-a91401?style=flat-square&logo=ruby&logoColor=white)
 
 ## Contacts
 * __Telegram Contact__: [@hat_kid](https://t.me/hat_kid)
@@ -18,8 +19,8 @@ Also My name is `hat_kid`!
 <img width="240px" alt="Merge Cat" src="https://raw.githubusercontent.com/FMS-Cat/FMS-Cat/master/images/merge_cat.png">
 
 ## Stats
-![Profile stats](https://github-readme-stats.vercel.app/api?username=thehatkid&show_icons=true&theme=tokyonight&count_private=true)
+![Profile Statistics](https://github-readme-stats.vercel.app/api?username=thehatkid&cache_seconds=300&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top PLs](https://github-readme-stats.vercel.app/api/top-langs/?username=thehatkid&theme=tokyonight&layout=compact)
+![Top Program Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thehatkid&cache_seconds=300&theme=tokyonight&layout=compact)
 
-![Profile views](https://gpvc.arturio.dev/thehatkid)
+![Profile Views](https://gpvc.arturio.dev/thehatkid)
