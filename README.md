@@ -1,4 +1,9 @@
-<h1 align="center">Hewwo, {username}!</h1>
+## Hewwo, {username}! :wave:
+
+![Profile Views](https://gpvc.arturio.dev/thehatkid)
+
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=thehatkid&theme=tokyonight&show_icons=true&cache_seconds=300&count_private=true">](https://metrics.lecoq.io/thehatkid#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=thehatkid&show_icons=true&cache_seconds=300&count_private=true">](https://metrics.lecoq.io/thehatkid#gh-light-mode-only)
 
 My nickname or just name is `hat_kid` and I'm OneShot modder,
 makes Discord and Telegram bots, a contributor of
@@ -23,13 +28,11 @@ some projects for myself, codes something, and etc:tm:.
 
 ## GitHub Profile Statistics:
 
-![Profile Views](https://gpvc.arturio.dev/thehatkid)
-
 <div align="center">
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thehatkid&theme=github)
 
-![Profile Statistics](https://github-readme-stats.vercel.app/api?username=thehatkid&cache_seconds=300&show_icons=true&theme=tokyonight&count_private=true)
+![Metrics](https://metrics.lecoq.io/thehatkid?template=classic&languages=1&achievements=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKrasnoyarsk)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thehatkid&theme=dark)
 
