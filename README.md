@@ -1,9 +1,13 @@
-<h1 align="center">Hewwo, {username}!</h1>
+## Hewwo, {username}! :wave:
 
-My nickname or just name is `hat_kid` and I'm OneShot modder,
-makes Discord and Telegram bots, a contributor of
-[ModShot](https://github.com/Astrabit-ST/ModShot-Core), makes
-some projects for myself, codes something, and etc:tm:.
+![Profile Views](https://gpvc.arturio.dev/thehatkid)
+
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=thehatkid&theme=tokyonight&show_icons=true&cache_seconds=300&count_private=true">](https://metrics.lecoq.io/thehatkid#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=thehatkid&show_icons=true&cache_seconds=300&count_private=true">](https://metrics.lecoq.io/thehatkid#gh-light-mode-only)
+
+My nickname or just name is `hat_kid` and I'm [OneShot](https://store.steampowered.com/app/420530/OneShot/) modder,
+makes Discord and Telegram bots, a contributor of [ModShot](https://github.com/Astrabit-ST/ModShot-Core),
+makes some projects for myself, codes something, and etc:tm:...
 
 ## I'm Coding on...
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -17,19 +21,14 @@ some projects for myself, codes something, and etc:tm:.
 * __Discord Tag__: `hat_kid#8773`
 
 ## ...
-<img width="240px" alt="hat_kid fire" src="./assets/why.gif">
+<img width="300px" alt="hat_kid fire" src="./assets/why.gif">
 
-<img width="240px" alt="GitHub Merge Cat" src="./assets/merge_cat.png">
+<img width="300px" alt="GitHub Merge Cat" src="./assets/merge_cat.png">
 
 ## GitHub Profile Statistics:
-
-![Profile Views](https://gpvc.arturio.dev/thehatkid)
-
 <div align="center">
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thehatkid&theme=github)
-
-![Profile Statistics](https://github-readme-stats.vercel.app/api?username=thehatkid&cache_seconds=300&show_icons=true&theme=tokyonight&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thehatkid&theme=dark)
 
