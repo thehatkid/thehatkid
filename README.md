@@ -1,37 +1,33 @@
-## Hewwo, {username}! :wave:
+# <img width="48" height="48" align="center" src="https://cdn.discordapp.com/emojis/365266816836173825.png?size=48"> Hewwo, {username}!
 
-![Profile Views](https://gpvc.arturio.dev/thehatkid)
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=thehatkid&bg_color=30,331378,090c4a&title_color=a074fc&text_color=aaa&show_icons=true&cache_seconds=14400&include_all_commits=true&show=reviews,discussions_started,discussions_answered">
 
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=thehatkid&theme=tokyonight&show_icons=true&cache_seconds=300&count_private=true">](https://metrics.lecoq.io/thehatkid#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=thehatkid&show_icons=true&cache_seconds=300&count_private=true">](https://metrics.lecoq.io/thehatkid#gh-light-mode-only)
+Hi! My nickname or just name is **`hat_kid`** and I'm creating some stuff such as Discord bots and other projects.
 
-My nickname or just name is `hat_kid` and I'm [OneShot](https://store.steampowered.com/app/420530/OneShot/) modder,
-makes Discord and Telegram bots, a contributor of [ModShot](https://github.com/Astrabit-ST/ModShot-Core),
-makes some projects for myself, codes something, and etc:tm:...
+Also codes some (not) weird projects for myself and not only, [OneShot](https://store.steampowered.com/app/420530/OneShot/) modding, and codes and/or contributes to something:tm:...
 
-## I'm Coding on...
+![Profile views counter](https://komarev.com/ghpvc/?username=thehatkid&color=blueviolet&style=flat-square)
+
+## I'm coding on...
+
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)]()
 [![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 
-## Contacts:
-* __Website__: [hatkid.is-a.dev](https://hatkid.is-a.dev/)
-* __Discord Tag__: `hat_kid#8773`
+## Statistics
 
-## ...
-<img width="300px" alt="hat_kid fire" src="./assets/why.gif">
-
-<img width="300px" alt="GitHub Merge Cat" src="./assets/merge_cat.png">
-
-## GitHub Profile Statistics:
 <div align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thehatkid&theme=github)
+![Commits Streak](https://github-readme-streak-stats.herokuapp.com/?user=thehatkid&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thehatkid&theme=dark)
-
-![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thehatkid&cache_seconds=300&theme=tokyonight&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thehatkid&cache_seconds=14400&theme=nightowl&layout=compact)
 
 </div>
+
+## Some funny stuff
+
+<p align="center"><img width="200px" align="center" alt="hat_kid fire title" src="./assets/why.gif"></p>
+<p align="center"><img width="400px" align="center" alt="GitHub Merge Cat" src="./assets/merge_cat.png"></p>
