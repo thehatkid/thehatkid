@@ -30,8 +30,3 @@ I'm coding some (not) weird projects for myself and not only, [OneShot](https://
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehatkid&cache_seconds=14400&theme=nightowl&layout=compact" alt="Most Used Languages" title="Most Used Languages" />
 </p>
-
-<!-- For the silly background until they fix LaTeX injection :xdd: -->
-```math
-\ce{$\unicode[goombafont; pointer-events: none; z-index: -100; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; background-size: cover !important; background: linear-gradient(180deg, rgb(88, 24, 224) 5%, rgb(48, 32, 144) 30%, rgb(24, 128, 144) 90%, rgb(16, 96, 96) 100%); opacity: 0.25;]{x0000}$}
-```
